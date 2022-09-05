@@ -35,7 +35,7 @@ export const config = {
       // 所在省份
       province: "河南",
       // 所在城市
-      city: "长葛",
+      city: "郑州",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url="
     }
@@ -67,7 +67,7 @@ export const config = {
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
   PROVINCE: "河南",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "长葛",
+  CITY: "郑州",
 
   /** 重要节日相关 */
 
