@@ -31,14 +31,28 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ok6NI65ngnc50D4dTmqW9EQZZgEw",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "pT_dMnlmCOudb65l6S4HV_Atu627pBWTDeK6vajtbCg",
+      useTemplateId: "lEGJIU2nOVPoaZCdl7l2ab_3Gbxczc-8mlFzZSgMnbA",
       // 所在省份
       province: "河南",
       // 所在城市
       city: "郑州",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url="
-    }
+    },
+    {
+      // 想要发送的人的名字
+      name: "佳佳宝宝",
+      // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
+      id: "ok6NI65ngnc50D4dTmqW9EQZZgEw",
+      // 你想对他发送的模板消息的模板ID
+      useTemplateId: "lEGJIU2nOVPoaZCdl7l2ab_3Gbxczc-8mlFzZSgMnbA",
+      // 所在省份
+      province: "河南",
+      // 所在城市
+      city: "郑州",
+      // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
+      openUrl: "https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url="
+    },
   ],
 
   /**
@@ -54,7 +68,7 @@ export const config = {
       // 一般都填自己
       name: "小钊",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ok6NI65ngnc50D4dTmqW9EQZZgEw",
+      // id: "ok6NI65ngnc50D4dTmqW9EQZZgEw",
     }, 
   ],
     
